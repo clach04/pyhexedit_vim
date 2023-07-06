@@ -2,6 +2,7 @@
 
 Demo filter for use with vim - created for Microsoft Windows compat testing
 
+A very bad hex viewer and editor filter for vim,
 do not use! use xxd that ships with vim instead!
 
 Vaguely useful as a reference for bytes IO in py3 and py2 with stdin/stdout.
